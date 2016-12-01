@@ -1,0 +1,9 @@
+.top-bar, .menu li {
+    background-color: $nav-background;
+}
+
+.top-bar {
+    .menu-text {
+        color: $nav-text-color;
+    }
+}
